@@ -4,7 +4,7 @@ I am Aadityasiva Sabarinathan a cross-platform developer and a graphic designer.
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=aadityasivaS&count_private=true&theme=default&show_icons=true)](https://github.com/aadityasivaS)
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityasivaS&layout=compact)](https://github.com/aadityasivaS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityasivaS&layout=compact)](https://github.com/aadityasivaS)
 
 #### You can find me on
 1. GitHub: https://github.com/aadtyasivaS
