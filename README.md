@@ -12,5 +12,4 @@ I am Aadityasiva Sabarinathan a cross-platform developer and a graphic designer.
 3. Stackoverflow: https://stackoverflow.com/users/14481856/aadityasiva-sabarinathan
 4. Website: https://aadityasiva.cf
 5. Email: me@aadityasiva.cf
-
-[![Aadityasiva's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/aadityasivas)
+6. dev.to: https://dev.to/aadityasivas 
