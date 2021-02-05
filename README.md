@@ -6,10 +6,9 @@ I am Aadityasiva Sabarinathan a cross-platform developer and a graphic designer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityasivaS&layout=compact)](https://github.com/aadityasivaS)
 
-#### You can find me on
-1. GitHub: https://github.com/aadtyasivaS
-2. Dribbble: https://dribbble.com/Aadityasiva
-3. Stackoverflow: https://stackoverflow.com/users/14481856/aadityasiva-sabarinathan
-4. Website: https://aadityasiva.cf
-5. Email: me@aadityasiva.cf
-6. dev.to: https://dev.to/aadityasivas 
+<a href="mailto:me@aadityasiva.cf"><img src="https://img.shields.io/badge/EMAIL-me%40aadityasiva.cf-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/aadtyasivaS"><img src="https://img.shields.io/badge/GitHub-aadityasivaS-181717?style=for-the-badge&logo=github"></a>
+<a href="https://dribbble.com/Aadityasiva"><img src="https://img.shields.io/badge/Dribbble-aadityasiva-EA4C89?style=for-the-badge&logo=dribbble"></a>
+<a href="https://stackoverflow.com/users/14481856/aadityasiva-sabarinathan"><img src="https://img.shields.io/badge/Stackoverflow-aadityasiva%20sabarinathan-FE7A16?style=for-the-badge&logo=stackoverflow"></a>
+<a href="https://aadityasiva.cf"><img src="https://img.shields.io/badge/Website-aadityasiva.cf-brightgreen?style=for-the-badge"></a>
+<a href="https://dev.to/aadityasivas"><img src="https://img.shields.io/badge/dev.to-aadityasiva-0A0A0A?style=for-the-badge&logo=dev.to"></a>
