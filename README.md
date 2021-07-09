@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iron-coder12/aadityasivaS/main/index.png">
+<img src="https://media.discordapp.net/attachments/811098644589314049/862939711684608021/AW4uXQia9z46AAAAAElFTkSuQmCC.png?width=800&height=240">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there</h1>
 I am Aadityasiva Sabarinathan a cross-platform developer and a graphic designer. I develop for mobile, desktop, web and packages for other developers.
 
