@@ -5,7 +5,7 @@ I am Aadityasiva Sabarinathan a cross-platform developer and a graphic designer.
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=aadityasivaS&count_private=true&theme=default&show_icons=true)](https://github.com/aadityasivaS)
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityasivaS&layout=compact)](https://github.com/aadityasivaS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityasivaS&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4)](https://github.com/aadityasivaS)
 
 <a href="mailto:me@aadityasiva.cf"><img src="https://img.shields.io/badge/EMAIL-me%40aadityasiva.cf-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://github.com/aadityasivaS"><img src="https://img.shields.io/badge/GitHub-aadityasivaS-181717?style=for-the-badge&logo=github"></a>
